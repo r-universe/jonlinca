@@ -1,0 +1,10 @@
+[
+  {
+    "package": "galvanizer",
+    "oncran": true
+  },
+  {
+    "package": "onepass",
+    "oncran": true
+  }
+]
